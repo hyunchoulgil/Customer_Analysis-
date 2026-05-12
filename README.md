@@ -78,7 +78,7 @@
   <table>
     <tr>
       <h4>
-        <strong>RFM segment distribution shows that most customers are concentrated in low-frequency and mid-to-low value segments, indicating the need for repeat-purchase activation, customer re-engagement, and upselling strategies.</strong>
+        <strong>"RFM segment distribution shows that most customers are concentrated in low-frequency and mid-to-low value segments, indicating the need for repeat-purchase activation, customer re-engagement, and upselling strategies"</strong>
       </h4>
       <td>
         <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778578321/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1591_etj1m7.png" />
