@@ -187,7 +187,7 @@
     <tr align="center">
       <td width="900" valign="top">
       <h2>Best Order Category</h2>
-      <img width="900" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778583208/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1600_yzm8kl.png">
+      <img width="900" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778590235/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1608_yopn0s.png">
         <h4>
         <strong>Review scores increase as average delivery days decrease, indicating that faster delivery is strongly linked to higher customer satisfaction.</strong>
       </h4>
