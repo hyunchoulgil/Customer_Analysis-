@@ -192,5 +192,11 @@
         <strong>Review scores increase as average delivery days decrease, indicating that faster delivery is strongly linked to higher customer satisfaction.</strong>
       </h4>
     </td>
+    </tr>
+</table>
+<table align="center">
+    <h1 align="center">Recommendations</h1>
+    <h4 align="center">Based on the uncovered insights, here are actionable items that Olist can take away from our analysis.</h4>
+      <ul>
     
      
