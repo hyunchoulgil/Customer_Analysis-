@@ -6,20 +6,37 @@
 <table align="center">
   <tr>
     <td width="1440">
-       <h2 align="center">Background</h2>
+       <h2 align="center">Client Background</h2>
        <body>
-        In the fast-paced world of e-commerce, understanding customer behavior is critical to driving revenue, reducing churn, and optimizing marketing spend. This SQL-based project analyzes customer data to deliver actionable insights that help businesses target high-value customers, boost retention, and increase profitability. Through customer segmentation, retention analysis, repeat purchase trends, Customer Lifetime Value (CLTV), and RFM (Recency, Frequency, Monetary) scoring, the project uncovers opportunities to maximize revenue and improve ROI. <br>
+        <strong>Olist</strong> is a Brazilian e-commerce platform that helps sellers manage online sales scross marketplaces and provide tools for order, logistics and financial operations. <br>
+         <br>
+         In this project scenario, Olist faced a growth challenge: except for Black Friday-driven seasonal spikes, both revenue and customer growth showed limited momentum. To identify the drivers behind this stagnation, Olist provided customer, seller, order, product, payment, delivery, and review data for analysis. The dataset contains approximately 100,000 order from 2016 to 2018 across multiple Brazilian marketplaces, including information on order status, price, payment, freight performance, customer location, product attributes, and customer reviews.<br>
+         <br>
+         For a more detailed customer-level analysis, raw data was transformed in MySQL to create an integrated data mart containing RFM Scores, delivery days, and review metrics. The final objective of this project is to segment customers based on Recency, Frequency, and Monetary value, propose actionable solutions for data, marketing, and product teams. <br>
 </table>
 <table align="center">
   <tr>
     <div width="920">
       <h1 align="center">Business Value</h1>
-      <h2 align="center">Key Challenges with Data-Driven Solutions</h2>
+      <h2 align="center">Key Business Impact</h2>
       
-- **Increases Revenue** : Identifies high-value customers (e.g., CLTV up to $38,965.77) for personalized offers, potentially boosting sales by 10-20% (industry benchmark).
-- **Reduces Churn** : Highlights a 95.24% churn rate after month 1, guiding timely re-engagement campaigns to retain customers.
-- **Optimizes Marketing** : Segments customers by age (e.g., 38.78% aged 26-48), traffic source, and country, focusing ad spend on high-ROI demographics.
-- **Encourages Loyalty** : Reveals a 37.74% repeat purchase rate, informing loyalty programs to increase order frequency.
+**1. Improves Customer Retention**  
+  RFM segmentation helps identify active, semi-inactive, and high-value customer groups, enabling more targeted retention and win-back campaigns.
+
+**2. Supports Repeat Purchase Growth**  
+  Frequency analysis shows that most customers purchased only once, highlighting the need for second-purchase campaigns and loyalty strategies.
+
+**3. Enhances Customer Satisfaction**  
+  The analysis shows that longer delivery times are associated with lower review scores, suggesting that delivery experience is a key factor in customer satisfaction.
+
+**4. Optimizes Marketing Efficiency**  
+  By separating customers by Recency, Frequency, and Monetary value, marketing teams can allocate campaigns more efficiently instead of relying on broad discount promotions.
+
+**5. Prioritizes Product and Logistics Improvements**  
+  Product category analysis identifies high-demand categories with longer-than-average delivery days, helping product and logistics teams focus on areas with the greatest customer impact.
+
+**6. Enables Department-Level Decision Making**  
+  The final recommendations are designed for data, marketing, and product teams, making the analysis more actionable across different business functions.
 </table>
 <h1 align="center">Executive Summary</h1>
 <h2 align="center">RFM Customer Segment Distribution</h2>
