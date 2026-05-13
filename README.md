@@ -201,8 +201,8 @@
 <table align="center">
     <tr align="center">
       <td width="900" valign="top">
-      <h2>Best Order Category</h2>
-      <img width="900" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778590235/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1608_yopn0s.png">
+      <h2>Number of Customers and Average Delivery Days by Product</h2>
+      <img width="900" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778661729/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1623_bhsmjv.png">
         <h4>
         <strong>Top-selling categories(cama_mesa_banho and informatica_acessorios etc) attract the most customers, but some still experience long delivery times, making category-level delivery optimization essential for improving customer satisfaction.</strong>
       </h4>
@@ -213,25 +213,23 @@
     <h1 align="center">Recommendations</h1>
     <h4 align="center">Based on the uncovered insights, here are actionable items by team that Olist can take away from our analysis.</h4>
       <ul>
-        <h3>📊Data Analytics/Logistics Team</h3>
+        <h3>📊Data Analytics / Logistics Team</h3>
         <li>Since mid-high tier RFM customers(Matser~Platinum) show longer average delivery times, the data team should further analyze which product categories, sellers, and delivery regions are most associated with this segment to identify potential delivery bottlenecks.</li>
           <ul><li><strong>Master Tier(RFM Total score 9) </strong>showed the lowest review score and longer delivery times.</li></ul> 
         <li>Analyze <strong>customers with two or more purchases(3%)</strong> as a separate segment to identify the key drivers of repeat purchase behavior, including product categories, purchase intervals, spending levels, and delivery experience.</li>
         <li>Analyze the delivery-time threshold at which review scores begin to decline significantly, and use it to define practical SLA targets.</li>
         <h3>📦Product Team</h3>
-        <li>Optimize inventory for high-performing products year-round.</li>
-          <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li>
-          <li>The Apple AirPods are also a strong-selling product, with close to $8 million in sales over four years.</li></ul>
-        <li>Deprioritize inventory for low-performing products.</li>
-          <ul><li>Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders.</li></ul>
-        <li>Investigate sales for MacBook Air laptops.</li>
-          <ul><li>MacBook Air Laptops rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (3.67%).</li></ul>
+        <li>Prioritize delivery optimization for high-demand categories with above-average delivery days, such as cama_mesa_banho, informatica_acessorios, moveis_decoracao, and relogios_presentes.</li>
+          <ul><li>80% of Top 10 revenue product category showed longer-than-average delivery times, highlighting the need to prioritize delivery optimization for popular product groups.</li></ul>
+        <li>Categories like moveis_escritorio with extremely high delivery times should be monitored even if they show relatively lower customer volume, as they may create concentrated dissatisfaction.</li>
+          <ul><li>Moveis_escritos(Office furniture) shows exceptionally long delivery times(20 days), suggesting that bulky product categories may require separate logistics management.</li></ul>
         <h3>🎯Marketing/CRM Team</h3>
         <li>Run targeted <strong> win-back campaigns</strong> for Recency grade 6–9 customers by offering personalized return coupons, encouraging them to make a new purchase and move into higher Recency tiers.</li>
-          <ul><li>In the Recency segment, mid-to-low tier customers whose last purchase was 240–545 days(R_grade 6-9) ago account for 58% of the total.</li></ul>
+          <ul><li>In the Recency segment, mid-to-low tier customers whose last purchase was 240–545 days(R_Segment 6-9) ago account for 58% of the total.</li></ul>
           <li>Use delivery speed as part of marketing communication by promoting faster-delivery products to customer segments that show lower satisfaction due to longer delivery times.</li>
-        <li>Create limited-time return campaigns for Recency grade 6–9 customers to trigger urgency and encourage repeat purchases before they become fully dormant.</li>
+        <li>Create limited-time return campaigns for R_Segment 6–9 customers to trigger urgency and encourage repeat purchases before they become fully dormant.</li>
         <li>Provide VIP retention benefits to high-monetary customers, such as exclusive discounts, early access to promotions, and personalized product offers.</li>
-        <ul><li>The top Monetary segments (M_grade 1–3), representing about 11% of customers, account for 46.5% of total payment value.</li></ul>
-        <li>Target low-to-mid monetary customers with bundle offers, free-shipping thresholds, and cross-selling recommendations to increase average order value.</li>
+        <ul><li>The top Monetary segments (M_Segment 1–3), representing about 11% of customers, account for 46.5% of total payment value.</li></ul>
+        <li>Target low-to-mid monetary customers(M_Segment 6-9) with bundle offers, free-shipping thresholds, and cross-selling recommendations to increase average order value.</li>
+        <li>Run recovery campaigns for customers who experienced long delivery times by offering apology coupons, follow-up messages, and faster-delivery recommendations for their next purchase.</li>
           
