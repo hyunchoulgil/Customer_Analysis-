@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="320px" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778136693/Logo-Olist_xeh1up.png" />
+  <img width="320px" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778136693/Logo-Olist_xeh1up.png" /> 
 </div>
 
 <h1 align="center">RFM Customer Analysis for Revenue Optimization</h1>
