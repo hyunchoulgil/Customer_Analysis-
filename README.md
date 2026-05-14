@@ -45,7 +45,7 @@
       <td width="460" valign="top">
         <ol>
           <li>
-          <strong>Approximately 72.5% of customers are concentrated in the mid-tier segments</strong>
+          <strong>Approximately 57% of customers are concentrated in the mid-tier segments</strong>
             <ul>
                 <li>From a business perspective, this group represents the largest customer pool. Rather than relying on broad discount campaigns, the company should focus on gradually moving these customers into higher-value tiers through repeat-purchase coupons, personalized product recommendations, and membership conversion campaigns</li>
             </ul>
