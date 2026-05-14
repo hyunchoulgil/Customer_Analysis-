@@ -75,7 +75,7 @@
   </table>
 <h3 align="center">Detail Description of Each Customer Segment</h3>
 <div align="center">
-  <img width="680" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709938/ChatGPT_Image_2026%EB%85%84_5%EC%9B%94_2%EC%9D%BC_%EC%98%A4%ED%9B%84_04_14_09_bwp555.png">
+  <img width="680" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778685713/9segment_description_cof5ro.png">
 </div>
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
